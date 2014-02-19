@@ -39,7 +39,7 @@
                  @"Jack's Pub",
                  @"Publik",
                  @"Upstairs Cabaret",
-                 @"Irish Times",
+                 @"Irish Tifmes",
                  nil];
 }
 
